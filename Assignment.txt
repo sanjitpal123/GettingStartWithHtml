@@ -1,0 +1,18 @@
+4. Write a short note on Tag and element with an example.
+  Tag:
+    An HTML tag is a snippet of code enclosed within angle brackets ("<" and ">") that defines the purpose and
+    structure of a specific element on a webpage. Tags are used to instruct the web browser how to display the
+    content they enclose. Tags usually come in pairs: an opening tag and a closing tag, with the name of the
+    element enclosed within the tags.
+
+
+    Elements:
+        An element is a complete unit that includes an opening tag ,content,and closing tag.It represents a distinct part of webpage's content or structure.
+
+
+5. What is the DOCTYPE Declaration in HTML?
+    Answer:
+       
+       The DOCTYPE declaration in HTML is a special instruction placed at the beginning of an HTML document to
+       specify the version of HTML being used. It ensures proper rendering and parsing by web browsers. The most
+       common declaration, <!DOCTYPE html>, indicates the use of HTML5, the latest version of HTML.
